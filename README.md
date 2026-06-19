@@ -249,7 +249,7 @@ File guide:
 ## Citation
 
 ```bibtex
-@misc{suman2026portfolio,
+@misc{
   author       = {Sujal Suman},
   title        = {Reinforcement Learning Approaches for Autonomous Portfolio Optimization},
   year         = {2026},
